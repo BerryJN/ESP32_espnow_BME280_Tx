@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "ESP32 BME280 Server",
+			"path": ".."
+		},
+		{
+			"name": "Esp32_espnow_Rx",
+			"path": "../../Esp32_espnow_Rx"
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2,
+		"editor.fontSize": 18,
+		"editor.wordWrap": "on"
+	}
+}
